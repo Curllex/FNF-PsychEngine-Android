@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"zanta",
+			"zegota",
+			[
+				255,
+				140,
+				155
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "zanta com geral",
+	"weekName": "zanta",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week7",
+	"startUnlocked": true
+}
