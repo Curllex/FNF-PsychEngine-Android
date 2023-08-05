@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bruno.png">
+<SubTexture name="bruno idle0000" x="699" y="915" width="694" height="884" frameX="-689" frameY="-106" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bruno shoot0000" x="1393" y="915" width="707" height="884" frameX="-676" frameY="-106" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bruno shoot0001" x="0" y="0" width="699" height="915" frameX="-654" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bruno shoot0002" x="699" y="0" width="710" height="915" frameX="-643" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bruno shoot0003" x="1409" y="0" width="755" height="915" frameX="-598" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bruno shoot0004" x="0" y="915" width="699" height="915" frameX="-654" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bruno ideia0000" x="0" y="915" width="699" height="915" frameX="-654" frameY="-93" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
