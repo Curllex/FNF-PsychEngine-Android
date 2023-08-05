@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mya idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mya left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mya down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mya up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mya right"
+		},
+		{
+			"offsets": [
+				-71,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "mya fala"
+		},
+		{
+			"offsets": [
+				-71,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "mya ideia"
+		},
+		{
+			"offsets": [
+				-71,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idiot",
+			"indices": [],
+			"name": "mya surp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mya",
+	"position": [
+		-750,
+		-90
+	],
+	"healthicon": "mya",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		76,
+		0
+	],
+	"camera_position": [
+		-840,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

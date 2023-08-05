@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "culer idle"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "culer left"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "culer down"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "culer right"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "culer up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "culer ialt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "hey",
+			"loop": false,
+			"name": "culer shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/culer",
+	"position": [
+		-730,
+		-40
+	],
+	"healthicon": "noone",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-840,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}
