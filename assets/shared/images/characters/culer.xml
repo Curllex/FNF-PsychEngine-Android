@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="culer.png">
+<SubTexture name="culer idle0000" x="3456" y="781" width="493" height="779" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer ialt0000" x="0" y="0" width="1269" height="986" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer down0000" x="1269" y="0" width="729" height="781" frameX="-651" frameY="-100" frameWidth="1920" frameHeight="990" />
+<SubTexture name="culer down0001" x="0" y="986" width="729" height="781" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer up0000" x="729" y="986" width="729" height="781" frameX="-651" frameY="-30" frameWidth="1920" frameHeight="1380" />
+<SubTexture name="culer up0001" x="1998" y="0" width="729" height="781" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer left0000" x="1998" y="781" width="729" height="781" frameX="-611" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer left0001" x="0" y="1767" width="729" height="781" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer right0000" x="729" y="1767" width="729" height="850" frameX="-691" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer right0001" x="1458" y="1767" width="729" height="781" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer shoot0000" x="2727" y="0" width="1269" height="781" frameX="-611" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer shoot0001" x="2727" y="781" width="729" height="781" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer shoot0002" x="2727" y="1562" width="729" height="781" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer shoot0003" x="0" y="0" width="1269" height="986" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="culer shoot0004" x="0" y="0" width="1269" height="986" frameX="-651" frameY="-70" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
