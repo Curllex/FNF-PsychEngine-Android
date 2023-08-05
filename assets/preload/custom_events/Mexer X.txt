@@ -1,0 +1,2 @@
+valor 1 nome do obj
+valor 2 o quanto mexe

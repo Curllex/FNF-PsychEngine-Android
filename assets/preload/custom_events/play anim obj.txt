@@ -1,0 +1,2 @@
+no valor 1 ponha o nome do objeto
+no valor 2 ponha o nome da animacao
