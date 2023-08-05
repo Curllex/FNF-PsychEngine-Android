@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ala.png">
+<SubTexture name="ala idle0000" x="0" y="0" width="276" height="438" frameX="-11" frameY="-21" frameWidth="310" frameHeight="528" />
+<SubTexture name="ala ideia0000" x="276" y="0" width="272" height="437" frameX="-11" frameY="-23" frameWidth="498" frameHeight="546" />
+</TextureAtlas>
